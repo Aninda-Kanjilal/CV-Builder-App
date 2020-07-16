@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="app_name">CV Builder</string>
+  <string name="fullname">Full Name</string>
+  <string name="address1">Address Line 1</string>
+  <string name="address2">Address Line 2</string>
+  <string name="phone">Phone No.</string>
+  <string name="email">Email ID</string>
+  <string name="next">Save and Next</string>
+  <string name="pg">Post Graduation</string>
+  <string name="graduate">Graduation</string>
+  <string name="ss">Senior School</string>
+  <string name="hs">High School</string>
+  <string name="course">Course</string>
+  <string name="cgpa">CGPA/Percentage</string>
+  <string name="projects" tools:ignore="UnusedResources">Projects</string>
+  <string name="prodetails">Project Details </string>
+  <string name="obj">Career Objectives </string>
+  <string name="skills">Skills</string>
+  <string name="lang">Languages Known</string>
+  <string name="finsih">Finish</string>
+  <string name="academic_details">Academic Details :-</string>
+  <string name="career_objectives">Career Objectives :-</string>
+  <string name="projects_skills_languages">Projects, Skills, Languages :-</string>
+</resources>
